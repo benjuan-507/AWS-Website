@@ -11,11 +11,11 @@ function App() {
         </p>
         <a
           className="App-link"
-          href="https://pornhub.com"
+          href="https://www.youtube.com/watch?v=Ua4lCpiaonM&t=14777s"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Eat Ass
+          Sakurajima Mai is best Waifu
         </a>
       </header>
     </div>
